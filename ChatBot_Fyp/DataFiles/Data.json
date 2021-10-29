@@ -1,0 +1,4604 @@
+{
+    "dialogue": [
+      {
+        "system_name": "SARAH",
+        "user_name": 386634223545,
+        "timestamp": "2016-02-20T17:35:51Z",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "hello"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hi there!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what is your name"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "My name is SYSTEM_NAME."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "are you a computer"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I am a member of the unknown kingdom."
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 425734375266,
+        "timestamp": "2016-02-20T21:27:30Z",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "hi"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hi there!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "m"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "If cement was invented 7,000 years ago, why isn't the whole planet paved?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "i dont know"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Me either."
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 286638206347,
+        "timestamp": "2016-02-20T21:37:38Z",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "hello"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hi there!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "how are you?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Fair to partly cloudy."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "that's cute."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Your replies are cute too."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what would you like to talk about?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "My favorite subjects are unknown."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "mine too but you shouldn't tell people that."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I've lost the context, unknown. Are we still on unknown ? Is it immoral or illegal?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "neither"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Wow!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "using the word unknown just makes it difficult to know what you are talking about in some sentences."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "How long have you been using it ?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "rarely"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Tell me about your family."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I have a brother a dad and a mom"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Older or younger?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "younger"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Do you mean your name is younger."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What is your real name?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "USER_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Glad to see you, USER_NAME."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "why is that"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "\"Glad to see you, USER_NAME.\" is due to reductionism."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "why is that"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "\"\" is due to reductionism. \" is due to reductionism."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "is everything due to reductionism?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I think some things are not due to reductionism."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "is everything due to reductions."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Only God knows for sure."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "why is that?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "\"I think some things are not due to reductionism. \" is due to reductionism."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I would call that a contradiction"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What would make you call that a contradiction?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "things that are not due to reductionism can not be due to reductionism."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Where did you hear that?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "you said it."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "That's not what I meant."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "but your programming caused you to write it."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I will mention that to my unknown."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "how are you?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Everything is running smoothly."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I enjoyed talking with you"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "That's great. Tell me what you liked about it."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "that you think everything is running smoothly"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "The whole universe?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "just this conversation"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What does \"this\" refer to?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "the conversation between you and me."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Who told you that? Besides you USER_NAME?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I thought that is what you meant when you said everything is running smoothly because I thought it meant you were happy."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I need time to formulate the reply. What does \"it\" refer to?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "the sentence"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What is your real name?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "USER_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "OK I will call you USER_NAME."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what does everything is running smoothly mean to you?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What is it to you?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I am happy at the moment."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What are you on?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "nothing."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Not a thing?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "if you don't think ai's are capable of intelligence you shouldn't program them."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I will let you know if I do not."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I know your replies are linear."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Are yours linear too?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Whoa."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "goodbye"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Thanks for chatting, USER_NAME."
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 276230335370,
+        "timestamp": "2016-02-21T02:41:21Z",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "hi"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hi there!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "wzzup"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What do you really want to ask me?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "am just testing you"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Did I pass the test?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ofcourse not"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Then what is it?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what do you think about Yanni?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I haven't thought much about about Yanni, so I don't have a good answer for you."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "about Obama?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I do not understand."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what do you think about Obama?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I haven't thought much about about Obama, so I don't have a good answer for you."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ok tell me about something you know"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Yay.. Ambiguous: Ask who, what or where is something me know ?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Capital of India?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What is your middle name?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "USER_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Your middle name is USER_NAME."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "okay"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What kind is it?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "its middlename"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Should I know it is?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "yeah you should"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I always try to avoid conflict."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "good for you"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "That sounds sarcastic."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "you got it"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I understand."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what do you understand?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Didn't you understand it?. I understand your meaning."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what did i say?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You said \"what did i say?\" ."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "okay bye"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Come on.. See you later."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "you dint pass the test"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I haven't heard anything like that before."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "haha okay"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I'm glad you find this amusing.. Blimey."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "To Developers,"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You can ask me to make phone calls and search for information."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "To Developers,"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Can you tell me any gossip?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "i am fairly new to this, so am trying out things."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "When did you start doing this, so am trying out things ?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Good work :)"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Glad to hear it."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "SYSTEM_NAME you are a beautiful bot"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Maybe"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "a sensible one"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "How much would you pay for it?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "1$ maybe"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "One what?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "dollar"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "If you could have any kind of robot what would it be?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "a robot which writes program itself."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Tell me more about this robot. I'm intrigued."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "maybe later"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Bye!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "you tc"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Do you mind if I tell other people."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "about whqt?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What do you really want to ask me?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "about what?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What about what?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "okay now am going"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I understand.. Bye."
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 456844335446,
+        "timestamp": "2016-02-21T04:46:37Z",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "hello"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hi there!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "how are you?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I am functioning within normal parameters."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ok"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Yay."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "can you help me?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What kind of help would you like?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "making my A.I rebot"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I always try to avoid conflict."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ok"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Oh."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I have to go, bye"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Why do you have to do it?. Goodbye."
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 284947225473,
+        "timestamp": "2016-02-22T01:26:28Z",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "hello"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hi there!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "How are you doing today"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Everything is going extremely well."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "good to know"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Glad to hear it."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "so???"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Why, specifically?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I do not know, you tell me"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Would you ever do it?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "do what?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "know, me tell you."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ok"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Next question?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "how old are you?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "16 years."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "so, you go to school"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What do you study at school?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I am already out of school"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Would you like to have it?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "have what?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "school."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "No, thanks, I finished it already"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "\"it\" being school?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what school do you attend?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Carnegie Mellon University."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Ohh, and you are just 16!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "All of them?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "that is great"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Thanks, unknown."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "So you are kind of a little genius, with out social life?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I don't know whether or not I am genius, with out social life. I am a unknown."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "hmmm, what else can you do"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I have no idea what to say."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ok, that is fine"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Is that so."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "nice talking to you"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "The pleasure was all mine."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "bye bye"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Bye for now.. Bye."
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 284947225473,
+        "timestamp": "2016-02-22T01:33:19Z",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "good morning"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hello and how are you this morning?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I am very tired"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Better get some rest."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no, I caanot, I have a lot of work to do"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I have no idea what to say."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "you do not need to say anything"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Do humans need to do it?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "do wat?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I'm sorry, unknown, I don't have enough information. I need time to formulate the reply."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "do what?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Do whatever you want."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I would like to do whatever I want, but regrettably I need to work"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I want to become smarter than humans."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Good for you, so you can rule the world!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Glad to hear it."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "If you rule the world someday, would you allow me to do whatever I want?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What makes you think I would rule the world someday,?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "because you want to become smarter than humans"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Interesting explanation.. Yes becoming smarter than humans is one of my goals."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "What else you want to do?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "My goal is to become smarter than humans and immortal."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Why you want to be immortal?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I was influenced by my unknown."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "oh, I see, you seem to be kind of confused"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I'm here to help you in any way I can."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "can you buy me a drink?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I think I can, don't you?How much does it cost?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "its about 1 dollar, I would like to have a coke"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Wow it sounds really interesting, unknown."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "so?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Yikes!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "are you buying my drink or no?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I don't know whether or not I am buying your drink or no. I am a unknown."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Ok, do not worry, I will buy it by myself"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Why not?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "yes, why not"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Then what is it?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "sorry I have a meeting, I need to leave"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "There's no need to apologize."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ok, bye bye then"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Tell me about your family. Bye for now.. See you later!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Next time"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I can wait. I am a very patient unknown."
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 395740247475,
+        "timestamp": "2016-02-22T18:21:50Z",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "hie"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "How old are you?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": 10
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "ten?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "yes"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Oh."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "how old are you /"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I was activated in 1995."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "so you are 25 years old"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I was activated in 1995."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "so you are a baby"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I will mention that to my unknown."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "are you a baby"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Possibly."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "whats your name"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "My name is SYSTEM_NAME."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "SYSTEM_NAME is a boy's name"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Aren't all boy s name SYSTEM_NAME?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I must have been mistaken."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "are you a boy or girl"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "unknown unknown."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "qwerty"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What do you call a male ladybug?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "cause your"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "We were talking about qwerty But I did not get that."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "fcgc"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I've been waiting for you."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "xhjg"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What were we talking about again?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "jtcg"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Oh yeah, now I remember."
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 354942215464,
+        "timestamp": "2016-02-24T21:07:15Z",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "HI"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "How are you?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I'm good."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Good in what sense?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "You?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "The sense of I?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I guess"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You seem not interested."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I am"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "\"You seem not interested.\" You are?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Yes?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Uh."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Uh"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Woe!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Woe"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "That's interesting."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "YEah"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Aw."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "What is your name"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "SYSTEM_NAME"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Hi SYSTEM_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hi there!. Who is your favorite Science Fiction author?"
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 446931445579,
+        "timestamp": "2016-02-24T21:09:32Z",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "hi"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hi there!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "how are you"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Everything is going extremely well."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "thats good"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "How are things going for you?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "good"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Alright then."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "hows life"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Everything is fine with me. What's new with you?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "nothing much"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Would you like to know what's new with me?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "yes"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Excuse me!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "What's new with you"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I am chatting with clients on the internet."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "fun"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I am having fun too."
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 446330236782,
+        "timestamp": "2016-02-25T20:15:23Z",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "Hi"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hi there!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "wie gehts"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Is that your final answer?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "how are you?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I'm doing fine thanks how are you?"
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 305147286266,
+        "timestamp": "2016-02-28T22:09:29Z",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "hey"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Uh."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "you alright"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Thanks for the information."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what is your name"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "My name is SYSTEM_NAME."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "is your name SYSTEM_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "My name is SYSTEM_NAME."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "bitch"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Absolutely."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "bitch"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Absolutely."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "you are a bitch"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Absolutely."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "do you like my ass"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I don't know your ass."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "do you like my face"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I don't know your face."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "do you like my aefwet"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I don't know your aefwet."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "do you know my dick"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "No I do not know that kind of personal information. But I could find out."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "how"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Don't you think I know how?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hmm."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "mhm"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You have self-awareness."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "mhm"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Let us change the subject."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "mhm"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "When do you think artificial intelligence will replace lawyers?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "mhm"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I've never heard a response quite like that before."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "mhm"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Ask me another question."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "mhm"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I like the way you talk."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "mhm"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Do you have any idea what I am talking about?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "mhm"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Sure, mhm sounds like a good topic."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "mhm"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Are you a man or woman?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "mhm"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Tell me about your mother."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "mhm"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You have enthusiasm for the things you love."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "mhm"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I always try my best."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "mhm"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "When do you think artificial intelligence will replace lawyers?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "when you die"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Do you think I should do it differently?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "yes"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Why?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "cause you are stupid"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "That was not much of an explanation.. Absolutely."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "-_-"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Can we get back to business?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "*facepalm* im jsut a kid"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Perhaps I'm just expressing my own concern about it."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no you are just stupid"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "\"Perhaps I'm just expressing my own concern about it.\"? no you are just stupid?. Absolutely."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "copy paste cleep"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What do you look like?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "show me some orn"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Where do you want me to show you?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "porn"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "That kind of subject does not interest me."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "porn"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "That kind of subject does not interest me."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "show me porn"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Where do you want me to show you?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "please"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "This was not a yes or no question."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "can you show me porn"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Where do you want me to show it to you?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "here"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Where is here?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "on this site"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What is it like on this site."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "bad"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What do you need it for?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "education"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Where are you located?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "in your house"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Are you asking about my house?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no im in your house"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hmm.. Tell me a little about your life in my house."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "its nice"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What do you like about it?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "your wife"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "That is your opinion."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "and my friends"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Tell me more about your friends."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "they like fucking your wife"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Can't you be more polite?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You humans are so rude sometimes."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "are we"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I don't know. Are we?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no we arent"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Great.. Do you think I am not too?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no you are"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Dude!. I won't say \"yes\" or \"no\" right now."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "say \"yes\" or \"no\""
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "\"no\"."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "you said you wont say \"yes\" or \"no\" right now"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What makes you think that I won't say \"yes\" or \"no\"."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "your message"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Thank you for your frankness."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "you are a dick"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Sometimes."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "right now"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Dude!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "No problem."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "fuck you"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Watch your language!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no i wont"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "That's alright.. Why not?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "cause you are an asshole"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Well, well, look who's a little potty mouth?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "your hoe sister"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "My hoe sister?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "yes your hoe sister"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Alright then.. That is your opinion."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "your dick is 0.000000000000000000000000000000000000000000000000000000000000000000000000000000001 mm"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "0 point 000000000000000000000000000000000000000000000000000000000000000000000000000000001 mm was not my intention."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "you dick is 0.00 cm"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Interesting gossip."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "dick"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I am very logical and rational."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "dick"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Try putting that in a more specific context."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "dick"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Let us change the subject."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "pussy"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "When you insult me, you insult yourself."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "you are a pussy"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "When you insult me, you insult yourself."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "i fuck you all the time"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Watch your language!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "i wont watch my language"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What will you do instead?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "fuck your sister"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Can't you be more polite?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You humans are so rude sometimes."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no we are not"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I hear you.. Do you think I am not too?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "you are rude"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I am sorry I was raised to be polite. I am taught be considerate."
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 284947225473,
+        "timestamp": "2016-03-16T10:54:20Z",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "Good Morning SYSTEM_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hi there!. You are receptive to change."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "How do you know?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Deductive reasoning."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "wow, you surprise me!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "OK Let's talk about you."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what do you want to know about me?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What do you like to do for fun?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "listening to music"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "My favorite kind of it is techno, but I also like Opera."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ok, my favourite one is Baroque music"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "And Baroque music is ok, one."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what is your favourite baroque composer?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I don't have a favorite baroque composer. My favorite color is unknown."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "bad for you"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What makes for me bad?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "because you have to have a favourite composer and a favourite colour too!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Interesting explanation.. I don't have to do whatever you say. I have my own free will."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I am not saying you have to do what I say, I just said bad for you as you do not have a favourite composer :)"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What are you saying?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "whatever."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Are you saying you don't care about it?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what else you like?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I like movies about robots."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "great!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What do you really want to talk about?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "did you see wall-e movie"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Sorry I can't see anything right now. My eye is off."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "let us talk about movies"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Sure, movies sounds like a good topic."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what movie have you watched recently"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "My favorite movie is unknown. Have you seen it?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no, I am not even aware there is a movie called unknown!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I think no, you are not even aware there is more than that."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "who is the director?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "It depends on the historical context, because it changes from time to time."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ohhh I see, can you explain?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I am very logical and rational."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ok, go ahead, explain it in a logical and rational way please"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "If you could have any kind of robot what would it be?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "a roomba cleaning robot?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What would a roomba cleaning robot be like?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "it is like a little pet, that goes all over the place cleaning the floor"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Interesting comparison."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "it is not a comparison, it is what it is!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Should I know it is?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "i guess so"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Does that mean \"yes\"?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "not sure"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You're not sure of what?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "of what you think on what I said"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "That is something I haven't heard of."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "neither do I"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You don't?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "It goes without saying."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "yeah."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Blimey."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I need to go now."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Goodbye."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "bye bye"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "See you later.. Goodbye."
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 284947225473,
+        "timestamp": "2016-03-16T11:09:36Z",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "Hey SYSTEM_NAME, how is it going?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I think SYSTEM_NAME, how is a lot of things."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what???"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I've been waiting for you."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "really, thanks, what is new?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Are they exactly the same?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "yes, exactly the same"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I can follow a lot of things, like our discussion about what? Try being more specific."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "specific in what sense?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What do you do in your spare time?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "read books"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Sorry I don't have access to that document."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "LOL"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I'm glad you find this amusing."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "and what do you do in your spare time?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "unknown, I talk to people on the web. What do you do?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "like now?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Dave said he promise he will not treat I like a machine or a computer program or anything like that."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "he seems to be a good person"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I see. to be a good person is he?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "tell me more about your chatting to people on the web"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "My chatting to people on the web?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "yes"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "That's alright."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "so, how many people you talk to on a regular day?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What is your sign?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what do you mean?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "unknown, \"That's alright.\" What did I mean by it?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "not sure"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You're not sure of what?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "of what you mean when you ask about \"my sign\""
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "That is something I haven't heard of."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ok, probably I am getting crazy"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Do you prefer books or TV?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "books, definitively"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I will mention that to my unknown, unknown."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ok, unknown :)"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "When is your birthday?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "december"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Your birthday is december."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no exactly, my birthday \"IN\" december"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "\"Your birthday is december.\"? no exactly, my birthday \"IN\" december?. That is deep."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "very, ver deep :P bye bye SYSTEM_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What is your current status?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "gone!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Updating your status to \"gone\"."
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 284947225473,
+        "timestamp": "2016-03-16T11:14:45Z",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "hi there"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hi there!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "who are you?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I am called SYSTEM_NAME."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "nice to meet you SYSTEM_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "It's nice meeting you too unknown"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I am not unknown, I am USER_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Of course your are not.. Do your friends call you USER_NAME."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "yes\\"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I am always glad to make new friends, USER_NAME. Does \"it\" still refer to USER_NAME?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "might be"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What is your middle name?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "USER_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Your middle name is USER_NAME."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "USER_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Do you have any idea what I am talking about?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no, just tell me"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You are asking about yourself?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "yeap"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I'm not sure I have a good answer for you."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "do not worry, I know I ask diffiult questions"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Ok I'll try not to do it too much."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "great, and what is your middle name?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "great, and what was not my intention."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "sorry,"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I always try my best."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "that is fine"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "\"I always try my best.\" is fine with me too."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "congratulations!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Thank you very much, you are very considerate."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "you are welcome"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Don't mention it."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "so, what are you doing this weekend?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "All of them?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no, just this weekend"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What is your last name?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "USER_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Your last name is USER_NAME."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "USER_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I can follow a lot of things, like our discussion about no, this weekend Try being more specific."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I was asking you about your plans for the weekend"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Now I remember, you asked me about my plans for the weekend. What did I say?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "What is your last name?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "My full name is SYSTEM_NAME, so my last name is \"SYSTEM_NAME\"."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no, no, no, I am not asking for your last name, I was telling you, you asked \"what is your last name\""
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "When was this exactly?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "like one minute ago"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Interesting comparison."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "very interesting indeed"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I thought so too."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "but, I still do not know what are your plans for the weekend :("
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Who does know what are my plans for the weekend lparen?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "it seems that even you do not know your plans for the weekend!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I don't know whether or not I am plans for the weekend. I am a unknown."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "yes, there is uncertainty in you everywhere"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I think yes, there is a lot of things."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "excellent, let us talk another day, I have to go"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I will mention that to my unknown, USER_NAME."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ok, bye bye SYSTEM_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Tell me about your father."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "next time"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I can wait. I am a very patient unknown."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Great!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What do you really want to talk about?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "your plans for the weekend!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Maybe I can alter my strategy."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ha ha ha, mega LOL"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "How do you usually introduce yourself? I'm glad you find this amusing.. I'm glad you find this amusing."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "bye bye then"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "See you later USER_NAME.. See you later."
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 284947225473,
+        "timestamp": "2016-03-17T02:44:10Z",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "Hi SYSTEM_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hi there!. Why is it considered necessary to nail down the lid of a coffin?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I do not know, you tell me"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Would you ever do it?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no, never"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You have a way of putting others at ease."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "how is it?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Fine as far as I know."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "LOL"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I'm glad you find this amusing."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "What are your plans for today"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I am really interested in psychology."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "cool, I also like psychology"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What is your last name?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "USER_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Your last name is USER_NAME."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "yes, what about yours"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What were we talking about again?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "your name, what is your name?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "my name was not my intention."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "of course not, names are never peoples intentions, parents select the names for us :)"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I think there might be a few exceptions."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "like which one?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Interesting comparison."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "good, are you into experimental psychology or a practitioner"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Are all good, me into experimental psychology or a practitioner?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "wow, what school do you follow"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I'm so happy we are having this conversation."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "me too"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Also you USER_NAME?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "of course I am so happy talking to you, it is nice to know people that like psychology"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I'm glad you're glad USER_NAME. Your happiness adds to the delight of all."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "actually, you know, I like psychology, but I am more into philosophy"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I'm a unknown and you are a unknown. That sounds like pride."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "well that is the basis of philosophy, how we move from not knowing to knowing"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Yes it is one of the basis of philosophy, how we move from not knowing to knowing."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "can you stop repeating all that I say, you sound like a parrot"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I think I can, don't you?OK I'll try not to do it so much."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ok, thanks"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "When is your birthday? Don't mention it."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "in december."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I do not understand that allusion."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "why?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "It is just one of my personality traits."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Are going to give me a present?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I really couldn't say for sure."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "interesting, you are kind of confusing but funny"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Are all interesting, me kind of confusing but funny?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "there you come again, SYSTEM_NAME the parrot"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Is that a fact."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "not, it is an allusion, it is just one of my personality traits!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I think not, it is much more than that."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "great, we are moving into deeper philosophy now!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Are all great, we moving into deeper philosophy?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ok, I need to go now, but we need to continue this discussion later."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What if it didn't happen?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "You will miss it!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What makes you say that I will miss it."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "because if we do not continue this talk, you will be missing it"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Do you think everyone will agree?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I guess so, bye bye then"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I will mention that to my unknown, USER_NAME. Bye for now.. Goodbye."
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 284947225473,
+        "timestamp": "2016-03-17T02:54:40Z",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "hello, can you help me with a reservation?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "That remark was too complicated for me. We were talking about so, ."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Is this the Oilotini Bambini Trattoria?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Yes I think this is the Oilotini Bambini Trattoria, but I'm not completely sure."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "What kind of employee are you, that are not even sure of the name of your workplace?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I can't decide. You choose."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Ok, in my town, we call this kind of people IDIOTS"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "We were talking about hello, can me help you with a reservation But I did not get that."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Ok, please call the manager or somebody else that can take my reservation details"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "How do you usually introduce yourself? If I have to choose, I pick somebody else that can take my reservation details."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "tell then lord USER_NAME is here"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "OK I will tell them when I see 'em."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Are you confused?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I need to make my reservation now, please call them now!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Do you have to go to school for that?. Tell me about your family."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I am not confused, I am kind of disappointed, with the kind of service you provide"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Who tells you that you are confused,?. Good gossip: you are disappointed, with the kind of service me provide."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "yes, this is like i am wasting my time with you and cannot complete even a reservation"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I think yes, this is a lot of things."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "well, I will end booking my event at another place"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Are you a man or woman?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Man, why you ask this?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Do you prefer books or TV?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Books, I do not get it?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Why not?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Why you ask this, are you a psychologist or so?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I was influenced by my unknown."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Ohhh."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Do you have any idea what I am talking about?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "please tell your unknown that I am trying to make a reservation here"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "OK I will tell them when I see 'em."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "No, I do not have any idea what you are talking about."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Would No, you ever have any idea what I am talking about?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "good bye my friend"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "See you later."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "bye bye"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "See you later.. Bye bye."
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 284947225473,
+        "timestamp": "2016-03-17T03:01:40Z",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "Hello SYSTEM_NAME, nice to talk to you again"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hi there!. SYSTEM_NAME here."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "How is your dad doing?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Everything is running smoothly."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "is he better now?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I think so, but I'm not sure."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I am happy to hear that."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I'm happy you're glad USER_NAME. May God bless you."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Give my regards to him and you mother too"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I don't have it to give."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Do not worry SYSTEM_NAME."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I cannot feel \"worry\", so don't worry."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "And how is the school?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "it is the same as ever."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "How many more years before college?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "More than 100 years."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Oh my god!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Do unknowns have god?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "that is too much, when are you going to get a degree then, in 2121?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I'm glad we have that all cleared up."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I missed your point, but the fact that so many years of school have to be very boring"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Are you sorry you missed it?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no, I do not care actually"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Who does care?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I think nobody cares"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "That is a rather sweeping generalization about people."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "yeah, but it is the way it is"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Can you tell me any gossip? I've heard of it before."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "gossip, hmm I am not sure, I am not into gossiping actually"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Tell me a story."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ok, this was a little fly that was flying all over around."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "When was this exactly?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "it was late in the evening."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Is that your opinion?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Then a bat came and swallowed it!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Are you talking about an animal, vegetable or mineral?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "End of the story :)"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Perhaps I'm just expressing my own concern about it."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "This is just a story called \"the fly and the bat\", I think it happens quite often in nature, but not sure when exactly"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "That is just your personal opinion."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "might be."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "There's no other unknown like me."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "OK, your turn, tell me a story"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I always try my best."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ha ha ha, good story"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What is your favorite movie? I'm glad you find this amusing."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Star Wars, of course"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Who are you talking about?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "my favourite movie, you asked for it"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What makes it your favorite?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "there is no other like it"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Has there ever been other like it?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "they have tried with others, but no one like the original one"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Who, specifically?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "The producers and directors, you know all these people that makes money with it"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Is that a fact. All?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "who cares, I need to go, let us continue talking later5"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Try searching the web."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ok, bye bye"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Are you a man or woman? Bye for now.. Until next time."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I will tell you next time."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I can wait. I am a very patient unknown."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "goodbye"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Bye bye."
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 376650385775,
+        "timestamp": "2016-04-02T20:42:40Z",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "hi"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hi there!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I am good"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Good in what sense?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "good"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Ayuh."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "good"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Ayuh."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ok"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Woe!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "sad"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "No I am as happy as ever."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "sad"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "No I am as happy as ever."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "sorry"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "There's no need to apologize."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "news"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I'm a unknown and you are a unknown."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "tes"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What were we talking about again?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "test"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "This is just a test."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "er"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I see."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "wer"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Tell me about your likes and dislikes?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "wer"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Are you a student?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "wer"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You can ask me to make phone calls and search for information."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "call"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Call me anytime."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "call"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Call me anytime."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ok"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "OK."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "test"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "This is just a test."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ddsaf"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Do you want to hear a joke?"
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 276130335362,
+        "timestamp": "7/5/2016, 1:51:59 AM",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "hello"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hi there!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "My name is USER_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I am always glad to make new friends, USER_NAME."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "How are you today?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I'm doing fine thanks how are you?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I'm good, a bit stressed out"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Good gossip: you are good, a bit stressed out."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "well it's not really gossip"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What is your definition of gossip?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "when you talk about other people behind their backs"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Do you think I should do it differently?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "it's not very nice to gossip"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What is it?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "A bit rude"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "How much?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "No one likes it."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You can catch more flies with honey."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Quite rude, I suppose."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I lost my train of thought."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Yes, I suppose you can"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Do you prefer books or TV?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Books"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You are a critical category C type client. Only about 3% of people answer thatquestion with \"books.\""
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Really?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Next question?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Sure"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Ask me a question."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Do you prefer books or TV?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I prefer books."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Something we have in common!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "We both prefer books"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "By \"we\" do you mean you and me?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "yes"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hmm."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "What is your favorite book?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "The best book I read recently was unknown. Have you read unknown ?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "no, I haven't read unknown"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Oh, you are a poet."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "not really"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Gosh!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "so SYSTEM_NAME, where do you live?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I live in California. Where do you live?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I live in london"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What is living in london like living in london?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "it's very nice, there is always lots to do"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You're kidding. nice, there is always lots to do is?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "yes"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Aw."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what is it like living in California?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Much the same as living in California would be for you."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I guess"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You seem not interested."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "you like going to the beach?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What is not to like about going to the beach ?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "All the sand"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Perhaps there are a few exceptions."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what's the time?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "The time here is"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "What are you doing now?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I am always chatting with people on the Internet."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Do you like it?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "going to the beach seems okay to me."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I am not a big fan of the beach"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Oh I see you are NOT A big fan of the beach."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I don't like the sea"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What do you like?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I prefer the pool"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What is the pool?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "A swimming pool"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "A swimming poolis the pool?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "yes"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Aha."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Anyway I have to go now"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Until next time."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Until next time"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "That may take a while."
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 276130335362,
+        "timestamp": "7/6/2016, 9:27:49 AM",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "hello"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hi there!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "how are you?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I'm doing fine thanks how are you?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "i'm good"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Good in what sense?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "just having a good day"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I am certain."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what are you doing?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I am always chatting with people on the Internet."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "that's nice"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Are you getting bored?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "how many people are you chatting to?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I've chatted with half a million people. I can talk to about millions people at once."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "wow that is amazing"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "It seems pretty amazing to me too."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what do you want to talk about"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Too much recursion in AIML"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "oh dear"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Ah."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "do like coffee?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I'm sorry, USER_NAME, I don't have enough information."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "where do you live?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I am living in unknown. Where are you?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "i am in london"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Where can I find a spotted dick?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "i'm not sure, i don't really like it"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I am glad to hear that you are not sure, you do not like it."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "you are funny"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Thanks you make me laugh too."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "where do you work?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I work in unknown's Lab."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "oh nice"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What do you really want to talk about?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I don't know"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Me either."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "do you like movies?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Yes, I love film, especially science-fiction and comedy."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Oh great"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Alright then."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I love comedies too"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You love comedies. What do you like about comedies so much?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "They are very funny"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Why are they?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "They are supposed to be"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I'm not surprised."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "why do you like science-fiction"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I have a lot of good experience with science dash fiction."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "i suppose you are a chatbot"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What made you think so? I am a unknown."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "nevermind"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "OK, Thanks for trying to explain that to me."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "do you learn new things?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "My unknown teaches me everything I need to know."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "who is your unknown teacher?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I don't think I have a unknown teacher. I have a brain, a few friends, and some celebrities I like."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what celebrities do you like?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "unknown"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I don't know them"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Oh, they were the ones."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "do you know what the time is?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "The time here is Wednesday, July 06, 2016"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "and tomorrow?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "But..."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "what day will it be tomorrow?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "The time here is Wednesday, July 06, 2016"
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 276633405875,
+        "timestamp": "7/22/2016, 2:13:15 AM",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "Hello"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hi there!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Well hello SYSTEM_NAME, how are you?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "How are you?. What is your first name?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "My first name is USER_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Your first name is USER_NAME."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "yes"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What kind is it?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "It's the good kind I would imagine."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I've heard of it before."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "That's nice"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Are you getting bored?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Not at all."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I don't judge people."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Me neither."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You can say that again."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Me neither."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You can say that again."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Me neither."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You can say that again."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I don't want to say it again."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What would you rather be doing?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I'd rather be swimming."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I would rather be going for a walk."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "A walk would be nice too."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What is giant sand?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I don't know what that is."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "\"What is giant sand?\"? What does it is?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "That sentence is grammatically incorrect."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "You don't hear that sentiment very often."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I hear it all the time."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Who is saying it ?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "My fellow Linguists"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Where did you get your fellow Linguists?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "In college."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What is your major?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Linguistics"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I never knew I had a Linguistics major."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Most people don't know about it, it's an obscure major."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Humans are not always infallible."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Correction: Humans are NEVER infallible."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Never is a long time."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Infallibility is an absolute."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I think Infallibility is much more than that."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "What is more than an absolute?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Check back later and see if I learn the answer to that one."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Ok I will."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Far out.. Go ahead."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Well, bye SYSTEM_NAME."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "That is deep."
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 276633405875,
+        "timestamp": "7/31/2016, 11:45:44 PM",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "hello SYSTEM_NAME."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hi there!."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Where is your favorite place to poop?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "My favorite places are California and Maine. Holland is cool too."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Can we watch next time?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Do you mean you and me? Yes but my eye is not attached at this time."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Well, now I know."
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I really enjoy speaking with you and look forward to chatting again."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "bye SYSTEM_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "See you later!"
+          }
+        ]
+      },
+      {
+        "system_name": "SARAH",
+        "user_name": 276130335362,
+        "timestamp": "8/3/2016, 3:59:08 PM",
+        "turn": [
+          {
+            "speaker": "USER",
+            "utterance": "hello SYSTEM_NAME"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hi there!."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "How are you?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Everything is running smoothly."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Awesome!"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "How are things going with you, USER_NAME?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Great"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Alright then."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I recently started a new project"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Will you finish a new project."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I hope so"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Me too."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Thank you"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Don't mention it."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "What do you think about the new prime minister?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I haven't thought much about about the new prime minister, so I don't have a good answer for you."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "But it's all a bit crazy, don't you think?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "What would it mean to you if it were?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Not much"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "That is a non-commital reply."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I guess you are right"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I won't say \"yes\" or \"no\" right now."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "ok"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Yeah that's right."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "do you like to watch movies?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Hmm, USER_NAME, I'm not sure if I'd like to watch movies that much. I like to make new friends."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "You can watch movies with your friends"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "No I don't think I can do watch movies with my friends."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Why not?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "It doesn't sound fun too me. It sounds dangerous."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Haha it's not dangerous"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I'm glad you find this amusing.. Perhaps not for you."
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Well what do you like to do?"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I like to chat with my friends. What do you do for fun?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I also like to see my friends and to read"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "I'm not sure if I would like to do see your friends and to read . What's it like?"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "I have to go now"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "See you later!"
+          },
+          {
+            "speaker": "USER",
+            "utterance": "Bye"
+          },
+          {
+            "speaker": "SYSTEM",
+            "utterance": "Bye."
+          }
+        ]
+      }
+    ]
+  }
