@@ -50,7 +50,7 @@ namespace ChatBot_Fyp
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Chatbot}/{action=Index}/{id?}");
             });
         }
     }
