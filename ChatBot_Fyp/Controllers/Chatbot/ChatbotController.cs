@@ -83,20 +83,29 @@ namespace ChatBot_Fyp.Controllers.Chatbot
         [HttpPost]
         public IActionResult BotResponse([FromBody] DataModel model)
         {
-            using (StreamReader r = new StreamReader("DataFiles/Data.json"))
+            var Answer = _train.Where(s => s.Question.ToLower() == model.Question.ToLower()).FirstOrDefault();
+            if (Answer != null)
             {
-                string json = r.ReadToEnd();
-                var items = JsonConvert.DeserializeObject<DataListModel>(json);
-                var Answer = items.DataList.Where(s => s.Question.ToLower() == model.Question.ToLower()).FirstOrDefault();
-                if (Answer != null)
-                {
-                    return Json(new { status = "success", data = Answer });
-                }
-                else
-                {
-                    return Json(new { status = "success", data = Answer });
-                }
+                return Json(new { status = "success", data = Answer });
             }
+            else
+            {
+                return Json(new { status = "success", data = Answer });
+            }
+            //using (StreamReader r = new StreamReader("DataFiles/Data.json"))
+            //{
+            //   // string json = r.ReadToEnd();
+            //   // var items = JsonConvert.DeserializeObject<DataListModel>(json);
+            //    var Answer = _train.Where(s => s.Question.ToLower() == model.Question.ToLower()).FirstOrDefault();
+            //    if (Answer != null)
+            //    {
+            //        return Json(new { status = "success", data = Answer });
+            //    }
+            //    else
+            //    {
+            //        return Json(new { status = "success", data = Answer });
+            //    }
+            //}
         }
         public IActionResult ComplainForm()
         {
