@@ -5,7 +5,6 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace ChatBot_Fyp.Controllers.Chatbot
 {
@@ -91,21 +90,7 @@ namespace ChatBot_Fyp.Controllers.Chatbot
             else
             {
                 return Json(new { status = "success", data = Answer });
-            }
-            //using (StreamReader r = new StreamReader("DataFiles/Data.json"))
-            //{
-            //   // string json = r.ReadToEnd();
-            //   // var items = JsonConvert.DeserializeObject<DataListModel>(json);
-            //    var Answer = _train.Where(s => s.Question.ToLower() == model.Question.ToLower()).FirstOrDefault();
-            //    if (Answer != null)
-            //    {
-            //        return Json(new { status = "success", data = Answer });
-            //    }
-            //    else
-            //    {
-            //        return Json(new { status = "success", data = Answer });
-            //    }
-            //}
+            }            
         }
         public IActionResult ComplainForm()
         {

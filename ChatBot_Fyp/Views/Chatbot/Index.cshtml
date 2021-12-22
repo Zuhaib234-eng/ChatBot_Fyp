@@ -468,7 +468,7 @@
 
             function generateReply(userMessage) {
                 const message = userMessage.toLowerCase();
-                let reply = [`Sorry, I don't understand you.`, `Please try again`];
+                var reply = [`Sorry, I don't understand you.`, `Please try again`];
                 var model = { Question: message, Answer: "" };
 
                 //enerate some different replies
@@ -483,27 +483,33 @@
                 else if (/What’s up?/.test(message)) reply = [`Nothing what about you?`];
                 else if (/Tell me something/.test(message)) reply = [`Feel free to askme anything.`];
                 else if (/shop/.test(message)) reply = [`Whats the shop name?`];
-                //else {
-                //    //var model = { Question: message, Answer: "" };
-                //    //$.ajax({
-                //    //    url: "/Chatbot/BotResponse",
-                //    //    type: "POST",
-                //    //    contentType: "application/json;charset=utf-8",
-                //    //    data: JSON.stringify(model),
-                //    //    dataType: "json",
-                //    //    success: function (result) {
-
-                //    //    },
-                //    //    error: function (errormessage) {
-                //    //    }
-                //    //});
-                //}
+                else {
+                    var model = { Question: message, Answer: "" };
+                    debugger;
+                    $.ajax({
+                        url: "/Chatbot/BotResponse",
+                        type: "POST",
+                        contentType: "application/json;charset=utf-8",
+                        data: JSON.stringify(model),
+                        dataType: "json",
+                        async:false,
+                        success: function (result) {
+                            debugger;
+                            if (result.status == "success")
+                            {
+                                reply = result.data.answer;
+                            }
+                        },
+                        error: function (errormessage) {
+                        }
+                    });
+                }
                 return reply;
             };
 
             function postBotReply(reply) {
                 const html = `<div class="post post-bot">${reply + timeStamp()}</div>`;
-                const timeTyping = 500 + Math.floor(Math.random() * 2000);
+                const timeTyping = 5000 + Math.floor(Math.random() * 5000);
                 $("#message-board").append(html);
                 $scrollDown();
             };
@@ -619,7 +625,6 @@
 
         function ComplainForm() {
             window.location.href = "/Chatbot/ComplainForm";
-
         }
 
     </script>
