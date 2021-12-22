@@ -19,6 +19,7 @@ namespace ChatBot_Fyp.Controllers.Chatbot
                 string json = r.ReadToEnd();
                 var items = JsonConvert.DeserializeObject<DataListModel>(json);
                 _train = items.DataList;
+                
             }
         }
         class ClassInfo
@@ -83,6 +84,8 @@ namespace ChatBot_Fyp.Controllers.Chatbot
         public IActionResult BotResponse([FromBody] DataModel model)
         {
             var Answer = _train.Where(s => s.Question.ToLower() == model.Question.ToLower()).FirstOrDefault();
+            var c = new Classifier(_train);
+            var res = c.IsInClassProbability("checkprobabilty", Answer.Answer);
             if (Answer != null)
             {
                 return Json(new { status = "success", data = Answer });
@@ -106,6 +109,7 @@ namespace ChatBot_Fyp.Controllers.Chatbot
             //jsonData = JsonConvert.SerializeObject(complainList);
             //System.IO.File.WriteAllText("DataFiles/Complains.json", jsonData);
             ComplainData complainData = new ComplainData();
+            
             using (StreamReader r = new StreamReader("DataFiles/Complains.json"))
             {
                 string json = r.ReadToEnd();
