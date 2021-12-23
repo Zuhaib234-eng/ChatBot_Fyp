@@ -470,22 +470,10 @@
                 const message = userMessage.toLowerCase();
                 var reply = [`Sorry, I don't understand you.`, `Please try again`];
                 var model = { Question: message, Answer: "" };
-
                 //enerate some different replies
                 if (/^hi$|^hell?o|^howdy|^hoi|^hey|^ola/.test(message)) reply = [`Hi ${$userName}`, `What can I do for you?`];
-                else if (/complain/.test(message)) reply = ['its Our Complain Form, you can submit your complain here', '<input type="button" value="Complain Form" class="btn btn-success" onclick="ComplainForm()"/>'];
-                else if (/help|sos|emergency|support/.test(message)) reply = [`I am here to help.`, `What seems to be the problem?`];
-                else if (/how|what|why/.test(message)) reply = userMessage + " what?";
-                else if (/^huh+|boring|lame|wtf|pff/.test(message)) reply = [`<span class="far fa-dizzy fa-2x"></span>`, `I'm sorry you feel that way`, `How can I make it better?`];
-                else if (/bye|ciao|adieu|salu/.test(message)) reply = [`Ok, bye :)`];
-                else if (/How are you?/.test(message)) reply = [`I am fine what about you?`];
-                else if (/fine|good|me too|alright/.test(message)) reply = [`Great what can i do for you?`];
-                else if (/What’s up?/.test(message)) reply = [`Nothing what about you?`];
-                else if (/Tell me something/.test(message)) reply = [`Feel free to askme anything.`];
-                else if (/shop/.test(message)) reply = [`Whats the shop name?`];
                 else {
-                    var model = { Question: message, Answer: "" };
-                    debugger;
+                    var model = { Question: message, Answer: "" };                   
                     $.ajax({
                         url: "/Chatbot/BotResponse",
                         type: "POST",

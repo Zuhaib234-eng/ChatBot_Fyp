@@ -18,8 +18,7 @@ namespace ChatBot_Fyp.Controllers.Chatbot
             {
                 string json = r.ReadToEnd();
                 var items = JsonConvert.DeserializeObject<DataListModel>(json);
-                _train = items.DataList;
-                
+                _train = items.DataList;                
             }
         }
         class ClassInfo
@@ -83,17 +82,32 @@ namespace ChatBot_Fyp.Controllers.Chatbot
         [HttpPost]
         public IActionResult BotResponse([FromBody] DataModel model)
         {
-            var Answer = _train.Where(s => s.Question.ToLower() == model.Question.ToLower()).FirstOrDefault();
-            var c = new Classifier(_train);
-            var res = c.IsInClassProbability("checkprobabilty", Answer.Answer);
-            if (Answer != null)
+            
+            try
             {
-                return Json(new { status = "success", data = Answer });
+                DataListModel lst = new DataListModel();
+                using (StreamReader r = new StreamReader("DataFiles/Data.json"))
+                {
+                    string json = r.ReadToEnd();
+                    var items = JsonConvert.DeserializeObject<DataListModel>(json);
+                    lst = items;
+                }
+                var Answer = lst.DataList.Where(s => s.Question.ToLower() == model.Question.ToLower()).FirstOrDefault();
+                //var c = new Classifier(_train);
+                //var res = c.IsInClassProbability("checkprobabilty", Answer.Answer);
+                if (Answer != null)
+                {
+                    return Json(new { status = "success", data = Answer });
+                }
+                else
+                {
+                    return Json(new { status = "success", data = Answer });
+                }
             }
-            else
+            catch(Exception ex)
             {
-                return Json(new { status = "success", data = Answer });
-            }            
+                return Json(new { status = "fail", error = ex.Message }); 
+            }
         }
         public IActionResult ComplainForm()
         {
@@ -108,31 +122,38 @@ namespace ChatBot_Fyp.Controllers.Chatbot
             //complainList.Data.Add(model);                        
             //jsonData = JsonConvert.SerializeObject(complainList);
             //System.IO.File.WriteAllText("DataFiles/Complains.json", jsonData);
-            ComplainData complainData = new ComplainData();
-            
-            using (StreamReader r = new StreamReader("DataFiles/Complains.json"))
+            try
             {
-                string json = r.ReadToEnd();
-                var complains = JsonConvert.DeserializeObject<ComplainData>(json);
-                if (complains.Data == null)
-                {
-                    complains.Data = new List<ComplainModel>();
-                    complains.Data.Add(model);
-                    complainData = complains;
-                }
-                else
-                {
-                    complains.Data.Add(model);
-                    complainData = complains;
-                }
-            }
+                ComplainData complainData = new ComplainData();
 
-            using (StreamWriter r = new StreamWriter("DataFiles/Complains.json"))
-            {
-                var data = JsonConvert.SerializeObject(complainData);
-                r.Write(data);
+                using (StreamReader r = new StreamReader("DataFiles/Complains.json"))
+                {
+                    string json = r.ReadToEnd();
+                    var complains = JsonConvert.DeserializeObject<ComplainData>(json);
+                    if (complains.Data == null)
+                    {
+                        complains.Data = new List<ComplainModel>();
+                        complains.Data.Add(model);
+                        complainData = complains;
+                    }
+                    else
+                    {
+                        complains.Data.Add(model);
+                        complainData = complains;
+                    }
+                }
+
+                using (StreamWriter r = new StreamWriter("DataFiles/Complains.json"))
+                {
+                    var data = JsonConvert.SerializeObject(complainData);
+                    r.Write(data);
+                }
+                return Json(new { status = "success" });
             }
-            return Json(new { status = "success" });
+            catch(Exception ex)
+            {
+                return Json(new { status = "fail",error = ex.Message });
+            }
         }
     }
 }
