@@ -12,7 +12,9 @@ namespace ChatBot_Fyp.Controllers.Chatbot
     {
         //Data train
         static List<DataModel> _train = new List<DataModel>();
-        public ChatbotController()
+        public ChatbotController(IDataListModel DataListModel,
+                                IDataModel DataModel,
+                                IComplainModel ComplainModel)
         {
             using (StreamReader r = new StreamReader("DataFiles/Data.json"))
             {
@@ -20,7 +22,14 @@ namespace ChatBot_Fyp.Controllers.Chatbot
                 var items = JsonConvert.DeserializeObject<DataListModel>(json);
                 _train = items.DataList;                
             }
+
+            _IDataListModel = DataListModel;
+            _IDataModel = DataModel;
+            _IComplainModel = ComplainModel;
         }
+        private IDataListModel _IDataListModel;
+        private IDataModel _IDataModel;
+        private IComplainModel _IComplainModel;
         class ClassInfo
         {
             public ClassInfo(string Quest, List<String> trainDocs)

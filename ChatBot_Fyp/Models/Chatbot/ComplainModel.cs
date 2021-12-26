@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ChatBot_Fyp.Models.Chatbot
 {
-    public class ComplainModel
+    public class ComplainModel : IComplainModel
     {
         public string Name { get; set; }
         public string Location { get; set; }

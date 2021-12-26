@@ -5,8 +5,7 @@ using System.Threading.Tasks;
 
 namespace ChatBot_Fyp.Models.Chatbot
 {
-    public class DataListModel: IDataListModel
+    public interface IDataModel
     {
-        public List<DataModel> DataList { get; set; }
     }
 }
